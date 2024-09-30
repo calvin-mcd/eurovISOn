@@ -1,7 +1,10 @@
 # eurovISOn
  
 40% keyboard designed by some weird Europeans from the 40s discord. It's a qaz-like with special character cluster, exploded ISO with rgb (because why not!?), a macro column to the left and rotary and oled support. It sports a rp2040 and uses a pico Daughterboard for the usb port.
- 
+
+Disclaimer: 
+**The board has not yet been tested, do not use the Production files to make orders right now!**
+
 ## Layout
 
 ![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/KLE.png)
