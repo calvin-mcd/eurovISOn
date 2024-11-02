@@ -3,4 +3,5 @@
   (lib (name "kbd")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
   (lib (name "W25Q16JVUXIQ")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/W25Q16JVUXIQ/W25Q16JVUXIQ.kicad_sym")(options "")(descr ""))
   (lib (name "Sleep-lib")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/Sleepdealr RP2040-designguide main PCB-Libraries/Sleep-lib.kicad_sym")(options "")(descr ""))
+  (lib (name "cipulot_parts")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/cipulot_kicad_parts-main/cipulot_parts.kicad_sym")(options "")(descr ""))
 )
