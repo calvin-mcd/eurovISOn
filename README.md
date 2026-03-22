@@ -2,6 +2,8 @@
  
 40% keyboard designed by some weird Europeans from the 40s discord. It's a qaz-like with special character cluster, exploded ISO with rgb (because why not!?), a macro column to the left and rotary and oled support. It sports a rp2040 and uses a pico Daughterboard for the usb port.
 
+The case is being designed by Haizeus from [haikey](https://www.haikey.design/) and is inspired by the float65. Case design is not finished.
+
 Disclaimer: 
 **this is a work in progress project**
 
@@ -10,17 +12,20 @@ Disclaimer:
 ![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/KLE.png)
 
 [Link](https://www.keyboard-layout-editor.com/#/gists/c5cb8d03115bd811b00f9896965940d2)
+**the KLE gist outdated, refer to the screen above**
 
 ## Pictures
 
-![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/top.png)
-![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/bottom.png)
+![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/eurovISOn2.jpg)
+![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/eurovISOn1.jpg)
 
 ## Todo
 
-- [ ] order & test pcb
-- [ ] order & test case
-- [ ] create firmware
+- [ ] make fresh gerber files & bom, pos
+- [ ] make firmeware
+- [ ] order and test proto pcbs
+- [ ] finish case design
+- [ ] order and test proto case
 
 ## Disclaimer
 
