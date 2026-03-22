@@ -5,7 +5,7 @@
 The case is being designed by Haizeus from [haikey](https://www.haikey.design/) and is inspired by the float65. Case design is not finished.
 
 Disclaimer: 
-**this is a work in progress project**
+**this is a work in progress project, do not use any of its files**
 
 ## Layout
 
