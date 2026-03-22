@@ -9,10 +9,10 @@ Disclaimer:
 
 ## Layout
 
-![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/KLE.png)
+![](https://github.com/calvin-mcd/eurovISOn/blob/main/Images/KLE1.png)
 
 [Link](https://www.keyboard-layout-editor.com/#/gists/c5cb8d03115bd811b00f9896965940d2)
-**the KLE gist outdated, refer to the screen above**
+**the KLE gist is outdated, refer to the screen above**
 
 ## Pictures
 
