@@ -514,7 +514,7 @@
       "plot": "Production",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "eurovISOn revision rgb.step",
+      "step": "eurovISOn revision FINAL no rgb.step",
       "svg": "svg",
       "vrml": ""
     },
